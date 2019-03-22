@@ -23,4 +23,6 @@ class JqueryEasingAssetBundle extends EffAssetBundle{
         ],
     ];
 
+    
+
 }
